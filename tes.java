@@ -2,10 +2,14 @@ package latihan;
 
 public class tes {
     public static void main(String[] args) {
-        int[] arr = new int[2];
-        for(int i=0; i < arr.length; i++){
-            System.out.print("hai ");
+        for (int i = 0; i <= 3000; i++){
+            System.out.println("I love tou");
         }
+
+//        int[] arr = new int[2];
+//        for(int i=0; i < arr.length; i++){
+//            System.out.print("hai ");
+//        }
 
 //        for (int var1 = 0; var1 < 2; var1++) {
 //            for (int var2 = 0; var2 <= 2; var2++) {
